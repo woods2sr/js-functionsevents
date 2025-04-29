@@ -15,3 +15,5 @@ function showInfo() {
    document.getElementById("info").innerHTML = infoList[randomizer];
    
 }
+
+// You had typos in your function names. Some were called InforList (with an R) and others were infoList (spelled correctly)
